@@ -15,8 +15,8 @@ How I made this:
 -Browser JS concurrently updates the DOM to reflect the change
 
 To Run: 
--Clone this repo
--run npm install
--run node server.js
--go to localhost:5000
+- Clone this repo
+- run npm install
+- run node server.js
+- go to localhost:5000
 
